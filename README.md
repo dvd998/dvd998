@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David.
 - 👀 I’m interested in learning Python programming language, mainly for Data Science and Business Intelligence.
-- 🌱 I’m currently learning Machine Learnig and Data Analysis with Python.
+- 🌱 I’m currently looking for a job position in either Data Analysis or Data Science field where I can use and upgrade my analytical and programming skills.
 - 💞️ I’m looking to collaborate on fun Data Sceience projects.
 - 📫 Reach me via email: markov.david1@gmail.com
 
